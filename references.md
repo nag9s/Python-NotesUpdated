@@ -2,5 +2,20 @@
 
 [http://www.alan-g.me.uk/l2p/index.htm](http://www.alan-g.me.uk/l2p/index.htm)
 
-https://thepythonguru.com/running-python-programs/
+[https://thepythonguru.com/running-python-programs/](https://thepythonguru.com/running-python-programs/)
+
+
+
+
+
+
+
+
+
+| Learning Python - Very good book | 3.3 |
+| :--- | :--- |
+| Beginning\_Programming\_with\_Pyt\(z-lib.org\) | 3.6 |
+|  |  |
+
+
 
