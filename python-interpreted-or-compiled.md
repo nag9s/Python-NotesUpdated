@@ -6,7 +6,7 @@ Python is an interpreted language, as opposed to a compiled one, though the dist
 
 .pyc files contain [byte code](http://en.wikipedia.org/wiki/Bytecode) , which is what the Python interpreter compiles the source to. This code is then executed by Python's virtual machine.
 
-**a language is not "interpreted" or "compiled" as such. A specific implementation can be an interpreter or a compiler **\(or a hybrid or a JIT compiler\)  - For python , standard implementation is CPython 
+**a language is not "interpreted" or "compiled" as such. A specific implementation can be an interpreter or a compiler **\(or a hybrid or a JIT compiler\)  - For python , standard implementation is CPython [CPython](/implemetations/cpython.md)
 
 .
 
