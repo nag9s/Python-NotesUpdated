@@ -4,18 +4,10 @@
 
 [https://thepythonguru.com/running-python-programs/](https://thepythonguru.com/running-python-programs/)
 
-
-
-
-
-
-
-
-
 | Learning Python - Very good book | 3.3 |
 | :--- | :--- |
 | Beginning\_Programming\_with\_Pyt\(z-lib.org\) | 3.6 |
-|  |  |
+| Python For Busy Java Develpers |  |
 
 
 
