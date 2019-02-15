@@ -8,4 +8,5 @@
 * [Python Interpreted Or compiled ](python-interpreted-or-compiled.md)
 * [Implemetations](implemetations.md)
   * [CPython](implemetations/cpython.md)
+* [Getting Help, Finding which Lib](getting-help-finding-which-lib.md)
 
