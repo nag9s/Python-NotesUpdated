@@ -5,4 +5,5 @@
 * [Core Built-ins and Standard Library Modules](core-built-ins-and-standard-library-modules.md)
 * [References](references.md)
 * [Error Messages](error-messages.md)
+* [Python Interpreted Or compiled ](python-interpreted-or-compiled.md)
 
