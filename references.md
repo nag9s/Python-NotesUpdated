@@ -10,6 +10,7 @@
 | Python For Busy Java Develpers |  |
 | Python Cookbook | 3 |
 | python pocket reerence | 3.4 |
+| headfirst python  | 3.5 |
 
 
 
