@@ -16,6 +16,7 @@
 | Learn Python 3 the Hard Way-Addison-Wesley \(2017\) | 3.6 |  |
 | Beginning Python\_ From Novice to Professional-Apress \(2017\) | 3.5 |  |
 | Learning-Python-learn-to-code-like-a-professional-with-Python-an-open-source-versatile-and-powerful-programming-language | 3.4 |  |
+| Learn-to-Program-with-Python-3 |  |  |
 
 
 
