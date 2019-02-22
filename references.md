@@ -14,6 +14,8 @@
 | Python Fundamentals | 3.6 | Good with examples, simplified |
 | Python-in-easy-steps | 3.7 | Good with examples, simplified |
 | Learn Python 3 the Hard Way-Addison-Wesley \(2017\) | 3.6 |  |
+| Beginning Python\_ From Novice to Professional-Apress \(2017\) | 3.5 |  |
+| Learning-Python-learn-to-code-like-a-professional-with-Python-an-open-source-versatile-and-powerful-programming-language | 3.4 |  |
 
 
 
