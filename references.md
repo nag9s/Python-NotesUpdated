@@ -4,13 +4,14 @@
 
 [https://thepythonguru.com/running-python-programs/](https://thepythonguru.com/running-python-programs/)
 
-| Learning Python - Very good book | 3.3 |
-| :--- | :--- |
-| Beginning\_Programming\_with\_Pyt\(z-lib.org\) | 3.6 |
-| Python For Busy Java Develpers |  |
-| Python Cookbook | 3 |
-| python pocket reerence | 3.4 |
-| headfirst python  | 3.5 |
+| Learning Python -  | 3.3 | Very good book |
+| :--- | :--- | :--- |
+| Beginning\_Programming\_with\_Pyt\(z-lib.org\) | 3.6 |  |
+| Python For Busy Java Develpers |  |  |
+| Python Cookbook | 3 |  |
+| python pocket reference | 3.4 |  |
+| headfirst python | 3.5 |  |
+| Python Fundamentals  | 3.6 | Good with examples, simplified |
 
 
 
