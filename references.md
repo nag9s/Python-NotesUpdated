@@ -18,6 +18,15 @@
 | Learning-Python-learn-to-code-like-a-professional-with-Python-an-open-source-versatile-and-powerful-programming-language | 3.4 |  |
 | Learn-to-Program-with-Python-3 | 3.6 |  |
 | Python Crash Course A Hands-On, Project-Based Introduction to Programming \(2016, No Starch Press\) | 3.5 |  |
+| Python in 24 hours | 2.7 |  |
+| Python in a Nutshell. A Desktop Quick Reference-O’Reilly \(2017\) | 3.5 |  |
+| python3\_tutorial | 3.5 |  |
+| Python-for-Everybody-Exploring-Data-in-Python-3.pdf |  |  |
+| Python-Journey-from-Novice-to-Expert | 3.5 |  |
+| PythonNotesForProfessionals | 3.6 |  |
+| Starting Out with Python, Global Edition-Pearson Education \(2018\) | 3.5 |  |
+| The Python Manual-BDM Publ. \(2018\) | 3.4 |  |
+| The-Quick-Python-Book.pdf | 3.7 |  |
 
 
 
