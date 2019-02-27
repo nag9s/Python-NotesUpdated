@@ -10,5 +10,4 @@
 * [Implemetations](implemetations.md)
   * [CPython](implemetations/cpython.md)
 * [Getting Help, Finding which Lib](getting-help-finding-which-lib.md)
-* Notes
 
