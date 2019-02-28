@@ -4,7 +4,9 @@
 
 **Note that we did not have to pre-declare all the attributes of the class.**
 
-
-
 ![](/assets/import1.png)
+
+
+
+![](/assets/classes.png)
 
