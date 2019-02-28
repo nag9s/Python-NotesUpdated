@@ -7,6 +7,7 @@
 * [Main Program](main-program.md)
 * [Python Interpreted Or compiled ](python-interpreted-or-compiled.md)
 * [Functions](functions.md)
+  * [Functions  Annotations](functions/functions-annotations.md)
 * [Notes](notes.md)
 * [Implemetations](implemetations.md)
   * [CPython](implemetations/cpython.md)
