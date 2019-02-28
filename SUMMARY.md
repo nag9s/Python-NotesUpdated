@@ -8,6 +8,7 @@
 * [Python Interpreted Or compiled ](python-interpreted-or-compiled.md)
 * [Functions](functions.md)
   * [Functions  Annotations](functions/functions-annotations.md)
+  * [Parameter  Passing](functions/parameter-passing.md)
 * [Notes](notes.md)
 * [Implemetations](implemetations.md)
   * [CPython](implemetations/cpython.md)
