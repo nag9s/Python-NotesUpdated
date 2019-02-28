@@ -12,5 +12,5 @@
   * [CPython](implemetations/cpython.md)
 * [Getting Help, Finding which Lib](getting-help-finding-which-lib.md)
 * [References](references.md)
-* Functions
+* [Functions](functions.md)
 
