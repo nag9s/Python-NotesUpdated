@@ -7,7 +7,7 @@
 | Learning Python - | 3.3 | Very good book |
 | :--- | :--- | :--- |
 | Beginning\_Programming\_with\_Pyt\(z-lib.org\) | 3.6 |  |
-| Python For Busy Java Develpers |  |  |
+| **Python For Busy Java Develpers** |  | **Very good book** |
 | Python Cookbook | 3 |  |
 | python pocket reference | 3.4 |  |
 | headfirst python | 3.5 |  |
@@ -24,7 +24,7 @@
 | Python-for-Everybody-Exploring-Data-in-Python-3.pdf |  |  |
 | Python-Journey-from-Novice-to-Expert | 3.5 |  |
 | PythonNotesForProfessionals | 3.6 |  |
-| Starting Out with Python, Global Edition-Pearson Education \(2018\) | 3.5 |  |
+| **Starting Out with Python, Global Edition-Pearson Education \(2018\)** | 3.5 | **Very good book** |
 | The Python Manual-BDM Publ. \(2018\) | 3.4 |  |
 | The-Quick-Python-Book.pdf | 3.7 |  |
 
