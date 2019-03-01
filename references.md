@@ -4,6 +4,8 @@
 
 [https://thepythonguru.com/running-python-programs/](https://thepythonguru.com/running-python-programs/)
 
+https://pypi.python.org/pypi
+
 | Learning Python - | 3.3 | Very good book |
 | :--- | :--- | :--- |
 | Beginning\_Programming\_with\_Pyt\(z-lib.org\) | 3.6 |  |
