@@ -15,4 +15,5 @@
 * [Getting Help, Finding which Lib](getting-help-finding-which-lib.md)
 * [References](references.md)
 * [Functions](functions.md)
+* [PIP](pip.md)
 
