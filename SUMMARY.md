@@ -18,4 +18,5 @@
 * [References](references.md)
 * [Functions](functions.md)
 * Modules
+* [Knowing Version of Module](knowing-version-of-module.md)
 
