@@ -6,6 +6,8 @@
 * [Error Messages](error-messages.md)
 * [Main Program](main-program.md)
 * [Python Interpreted Or compiled ](python-interpreted-or-compiled.md)
+* [Modules](modules.md)
+  * Import Vs From
 * [Functions](functions.md)
   * [Functions  Annotations](functions/functions-annotations.md)
   * [Parameter  Passing](functions/parameter-passing.md)
@@ -15,5 +17,5 @@
 * [Getting Help, Finding which Lib](getting-help-finding-which-lib.md)
 * [References](references.md)
 * [Functions](functions.md)
-* [PIP](pip.md)
+* Modules
 
