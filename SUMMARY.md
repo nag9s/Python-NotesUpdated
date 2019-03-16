@@ -19,4 +19,7 @@
 * [Functions](functions.md)
 * Modules
 * [Knowing Version of Module](knowing-version-of-module.md)
+* [Mutable vs Immutable Objects in Python](mutable-vs-immutable-objects-in-python.md)
+* [Anaconda Settings](anaconda-settings.md)
+  * [CondaRc file](anaconda-settings/condarc-file.md)
 
