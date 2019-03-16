@@ -11,6 +11,7 @@
 * [Functions](functions.md)
   * [Functions  Annotations](functions/functions-annotations.md)
   * [Parameter  Passing](functions/parameter-passing.md)
+  * CopyBy Val and Copy By Reference
 * [Notes](notes.md)
 * [Implemetations](implemetations.md)
   * [CPython](implemetations/cpython.md)
@@ -22,4 +23,5 @@
 * [Mutable vs Immutable Objects in Python](mutable-vs-immutable-objects-in-python.md)
 * [Anaconda Settings](anaconda-settings.md)
   * [CondaRc file](anaconda-settings/condarc-file.md)
+* [tricky  syntax'](tricky-syntax.md)
 
