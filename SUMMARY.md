@@ -7,7 +7,7 @@
 * [Main Program](main-program.md)
 * [Python Interpreted Or compiled ](python-interpreted-or-compiled.md)
 * [Modules](modules.md)
-  * Import Vs From
+  * [Import Vs From](modules/import-vs-from.md)
 * [Functions](functions.md)
   * [Functions  Annotations](functions/functions-annotations.md)
   * [Parameter  Passing](functions/parameter-passing.md)
